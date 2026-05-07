@@ -1,4 +1,4 @@
-# 🌐 Computer Networks — Cisco Packet Tracer Labs (CCNA)
+# 🌐 Computer Networks - Cisco Packet Tracer Labs (CCNA)
 **Gaukhar Assyrzhanova** | IIoT-2401 | Astana IT University
 
 Lab reports from **CCNA: Introduction to Networks** course. Covers IPv4/IPv6 addressing, subnetting, router configuration, and packet analysis using Cisco Packet Tracer and Wireshark.
@@ -17,7 +17,7 @@ Lab reports from **CCNA: Introduction to Networks** course. Covers IPv4/IPv6 add
 
 ## 📁 Lab Reports
 
-### Lab 1 — Basic Router Configuration & LAN Connectivity
+### Lab 1 - Basic Router Configuration & LAN Connectivity
 **File:** `Lab_Report_Router_Config_and_LAN.pdf`
 
 - Configured Cisco 1941 router via CLI (hostname, passwords, MOTD banner, NVRAM)
@@ -27,7 +27,7 @@ Lab reports from **CCNA: Introduction to Networks** course. Covers IPv4/IPv6 add
 
 ---
 
-### Lab 2 — IPv4 Subnetting & VLSM Design
+### Lab 2 - IPv4 Subnetting & VLSM Design
 **File:** `Lab_Report_Subnetting_VLSM.pdf`
 
 - Designed subnetting scheme for 192.168.0.0/24 network
@@ -47,7 +47,7 @@ Lab reports from **CCNA: Introduction to Networks** course. Covers IPv4/IPv6 add
 
 ---
 
-### Lab 4 — Wireshark Ethernet Frame Analysis
+### Lab 4 - Wireshark Ethernet Frame Analysis
 **File:** `Lab_4716_Wireshark_Ethernet_Frames_Report.pdf`
 
 - Captured and analyzed Ethernet II frames using Wireshark
@@ -70,6 +70,7 @@ Lab reports from **CCNA: Introduction to Networks** course. Covers IPv4/IPv6 add
 ## 👩‍💻 About
 **Gaukhar Assyrzhanova**
 Industrial Engineering (IIoT) Student — Astana IT University
+
 Academic Mobility: Hochschule Schmalkalden, Germany (2025)
 
 📧 gokass111@gmail.com
